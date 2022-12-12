@@ -10,3 +10,4 @@ class MainActivity : AppCompatActivity() {
     }
 }
 //git check
+// This should be the starting file
